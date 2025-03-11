@@ -1,1 +1,1 @@
-print("zero")
+print("zero will be hero")
