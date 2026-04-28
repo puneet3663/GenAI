@@ -14,3 +14,9 @@ Foundation Models are large pre-trained models that can handle multiple modaliti
 
 <img width="611" height="93" alt="image" src="https://github.com/user-attachments/assets/72583e7a-f3da-46aa-89d8-48ec29483c97" />
 
+## challenges in GenAI
+
+<img width="711" height="340" alt="image" src="https://github.com/user-attachments/assets/03dc043a-574d-472f-959a-f35743faf03e" />
+
+## chatgpt is trained on 45 TB of data , 300 billion words
+
