@@ -1,3 +1,6 @@
+<img width="699" height="304" alt="image" src="https://github.com/user-attachments/assets/8391364d-1ff5-4e06-891d-3947719f0b75" />
+
+
 ## ML vs LLM 
 <img width="638" height="311" alt="image" src="https://github.com/user-attachments/assets/8802fa97-81ba-4a72-960b-2d1c7a0912b4" />
 
@@ -20,3 +23,6 @@ Foundation Models are large pre-trained models that can handle multiple modaliti
 
 ## chatgpt is trained on 45 TB of data , 300 billion words
 
+<img width="938" height="443" alt="image" src="https://github.com/user-attachments/assets/3f1a23bf-082f-4da2-a837-c9a1ab89d070" />
+
+<img width="891" height="460" alt="image" src="https://github.com/user-attachments/assets/9de6fc65-e4e6-4f9f-990e-78c471860943" />
