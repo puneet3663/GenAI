@@ -1,5 +1,8 @@
 ## RAG (Retrieval-Augmented Generation)?
 
+RAG is a technique where we retrieve relevant external data and pass it to an LLM as context so it generates accurate, up-to-date, and domain-specific responses
+
+
 <img width="700" height="222" alt="image" src="https://github.com/user-attachments/assets/936d5ba8-c6b7-4a96-ab66-065575b172d2" />
 
 <img width="657" height="158" alt="image" src="https://github.com/user-attachments/assets/b29abe0d-5137-4573-b69c-0a2e6868b8e9" />
